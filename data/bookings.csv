@@ -1,0 +1,13 @@
+code,customer,destination,hotel,nights,amount,bookedAt
+BK1001,Ravi Kumar,Goa,Beach Paradise Resort,3,19500,2026-10-01 10:15
+BK1002,Anitha Reddy,Manali,Snow Valley Inn,2,6400,2026-10-01 11:40
+BK1003,Suresh Babu,Jaipur,Taj Palace,2,19000,2026-10-02 09:05
+BK1004,Priya Sharma,Kerala,Backwater Retreat,4,19200,2026-10-02 14:30
+BK1005,John Mathew,Paris,Grand Lumiere,3,42000,2026-10-03 16:20
+BK1006,Sara Khan,Bali,Ubud Green Villa,5,36000,2026-10-03 18:45
+BK1007,Arjun Rao,Dubai,Skyline Tower Hotel,2,22000,2026-10-04 08:10
+BK1008,Meena Iyer,Kyoto,Sakura Ryokan,3,27000,2026-10-04 12:00
+BK1009,Kiran Patel,Switzerland,Alpine Lodge,4,60000,2026-10-05 15:35
+BK1010,Divya Nair,Maldives,Ocean Pearl Resort,3,60000,2026-10-05 19:25
+BK1011,Ravi Kumar,Kerala,Backwater Retreat,2,9600,2026-10-06 10:50
+BK1012,Anitha Reddy,Goa,Beach Paradise Resort,1,6500,2026-10-06 13:15

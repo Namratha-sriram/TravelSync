@@ -1,0 +1,13 @@
+from,to,capacity,mode
+Delhi,Jaipur,120,train
+Delhi,Chandigarh,90,train
+Delhi,Mumbai,150,flight
+Delhi,Manali,40,bus
+Jaipur,Mumbai,60,train
+Jaipur,Goa,30,flight
+Chandigarh,Manali,70,bus
+Mumbai,Goa,100,flight
+Mumbai,Bangalore,110,flight
+Goa,Bangalore,40,bus
+Goa,Kerala,50,train
+Bangalore,Kerala,80,train
